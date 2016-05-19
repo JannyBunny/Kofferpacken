@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=aufgeladen\ voltzahl\ gewicht
+comment0.target=Handy(boolean,\ float,\ float)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Handy\r\n\ @param\ aufgeladen\ ist\ es\ aufgeladen\r\n\ @param\ voltzahl\ wieviel\ Volt\r\n\ @param\ gewicht\ wie\ schwer\r\n
+comment1.params=
+comment1.target=boolean\ gibAufgeladen()
+comment1.text=\r\n\ Gibt\ zur\u00FCck\ ob\ das\ Ger\u00E4t\ aufgefladen\ ist\r\n\ @return\ aufgeladen;\r\n
+comment2.params=
+comment2.target=void\ anzeigen()
+comment2.text=\r\n\ Gibt\ die\ Details\ des\ Ger\u00E4tes\ aus\r\n
+numComments=3

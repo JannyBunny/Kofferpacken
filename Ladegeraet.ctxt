@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=typ\ voltzahl\ gewicht
+comment0.target=Ladegeraet(java.lang.String,\ float,\ float)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Ladegeraet\r\n\ @param\ typ\ Der\ typ\ des\ Ladeger\u00E4tes\r\n\ @param\ voltzahl\ die\ voltzahl\r\n\ @param\ gewicht\ das\ gewicht\r\n
+comment1.params=
+comment1.target=java.lang.String\ gibTyp()
+comment1.text=\r\n\ Gibt\ den\ Typ\ zur\u00FCck\r\n\ @return\ Der\ typ\ des\ Ladeger\u00E4tes\r\n
+comment2.params=
+comment2.target=void\ anzeigen()
+numComments=3

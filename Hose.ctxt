@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=art\ farbe\ groesse\ gewicht
+comment0.target=Hose(java.lang.String,\ java.lang.String,\ int,\ float)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Hose\r\n\ @param\ art\ die\ Art\r\n\ @param\ farbe\ die\ Farbe\r\n\ @param\ groesse\ die\ Groesse\r\n\ @param\ gewicht\ das\ Gewicht\r\n
+comment1.params=
+comment1.target=java.lang.String\ gibArt()
+comment1.text=\r\n\ Gibt\ die\ Art\ zur\u00FCck\r\n\ @return\ Gibt\ die\ Art\ zur\u00FCck\r\n
+comment2.params=
+comment2.target=void\ anzeigen()
+comment2.text=\r\n\ Gibt\ die\ details\ an\r\n
+numComments=3

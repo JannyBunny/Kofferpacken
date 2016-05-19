@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=farbe\ groesse\ gewicht
+comment0.target=Kleidung(java.lang.String,\ int,\ float)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Kleidung\r\n\ @param\ farbe\ Farbe\r\n\ @param\ groesse\ Gr\u00F6\u00DFe\r\n\ @param\ gewicht\ Gewicht\r\n
+comment1.params=
+comment1.target=java.lang.String\ gibFarbe()
+comment1.text=\r\n\ Methode\ gibt\ die\ Farbe\ zur\u00FCck\r\n\ @return\ Die\ Farbe\r\n\ \r\n
+comment2.params=
+comment2.target=int\ groesse()
+comment2.text=\r\n\ Die\ Methode\ gibt\ die\ Gr\u00F6\u00DFe\ zur\u00FCck\r\n\ @return\ die\ Gr\u00F6\u00DFe\r\n
+comment3.params=
+comment3.target=java.lang.String\ detailsKleidung()
+comment3.text=\r\n\ Die\ Methode\ gibt\ die\ Eigenschaften\ der\ Kleidung\ zur\u00FCck.\r\n\ @return\ Eigenschaften\ wie\ Farbe\ gr\u00F6\u00DFe\ und\ gewicht\r\n\r\n
+numComments=4

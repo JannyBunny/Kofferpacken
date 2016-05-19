@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=aufdruck\ farbe\ groesse\ gewicht
+comment0.target=TShirt(java.lang.String,\ java.lang.String,\ int,\ float)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ TShirt\r\n\ @param\ aufdruck\ Aufdruck\ auf\ dem\ Shirt\r\n\ @param\ groesse\ Gr\u00F6\u00DFe\ des\ Shirts\r\n\ @param\ gewicht\ Gewicht\ des\ Shirts\r\n
+comment1.params=
+comment1.target=java.lang.String\ gibAufdruck()
+comment1.text=\r\n\ Gibt\ den\ Aufdruck\ zur\u00FCck\r\n\ @return\ Der\ Aufdruck\ als\ String\r\n
+comment2.params=
+comment2.target=void\ anzeigen()
+comment2.text=\r\n\ Zeigt\ details\ zum\ Shirt\ an\r\n\ \r\n
+numComments=3

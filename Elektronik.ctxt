@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=voltzahl\ gewicht
+comment0.target=Elektronik(float,\ float)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Elektronik\r\n
+comment1.params=
+comment1.target=float\ gibVolt()
+comment1.text=\r\n\ Die\ Methode\ gibt\ die\ Voltzahl\ zur\u00FCck\r\n\ @return\ die\ Voltzahl\r\n
+comment2.params=
+comment2.target=java.lang.String\ zeigeElektronik()
+comment2.text=\r\n\ Gibt\ die\ Infos\ zur\u00FCck\r\n\ @return\ voltzahl\r\n\ @return\ zeigeGewicht\r\n
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=gewicht
+comment0.target=Kofferinhalt(float)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Kofferinhalt\r\n\ @param\ gewicht\ Das\ Gewicht\r\n
+comment1.params=
+comment1.target=float\ gibGewicht()
+comment1.text=\r\n\ Gibt\ das\ Gewicht\ zur\u00FCck\r\n\ @return\ das\ Gewicht\r\n
+comment2.params=
+comment2.target=java.lang.String\ zeigeGewicht()
+comment2.text=\r\n\ Gibt\ details\ zum\ Inhalt\ zur\u00FCck\r\n\ @return\ anzeige\ die\ anzeige;\r\n
+numComments=3

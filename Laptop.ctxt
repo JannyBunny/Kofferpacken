@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=ausgeschaltet\ voltzahl\ gewicht
+comment0.target=Laptop(boolean,\ float,\ float)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Laptop\r\n
+comment1.params=
+comment1.target=boolean\ gibAusgeschaltet()
+comment1.text=\r\n\ Gibt\ den\ Zustand\ des\ Ger\u00E4tes\ zur\u00FCck\r\n\ @return\ ausgeschaltet\ ob\ das\ Ger\u00E4t\ ausgeschaltet\ ist.\r\n
+comment2.params=
+comment2.target=void\ anzeigen()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=eigengewicht
+comment0.target=Koffer(float)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Koffer\r\n
+comment1.params=teil
+comment1.target=void\ hinzufuegen(Kofferinhalt)
+comment2.params=
+comment2.target=void\ anzeigen()
+comment3.params=
+comment3.target=void\ gibGesamtgewicht()
+numComments=4
