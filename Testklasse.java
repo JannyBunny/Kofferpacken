@@ -38,7 +38,7 @@ public class Testklasse
     public void setUp()
     {
         koffer1 = new Koffer(2000);
-        kofferin1 = new Kofferinhalt(500);
+       // kofferin1 = new Kofferinhalt(500);
         tShirt1 = new TShirt("Drache", "Schwarz", 45, 400);
         hose1 = new Hose("Kurz", "blau", 38, 300);
         laptop1 = new Laptop(true, 14, 2500);

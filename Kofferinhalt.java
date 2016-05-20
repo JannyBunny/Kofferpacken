@@ -4,7 +4,7 @@
  * @author Jan-René Grünhagen 
  * @version 13.05.2016
  */
-public class  Kofferinhalt
+public abstract class  Kofferinhalt implements GefaehrlicheGegenstande
 
 {
     private float gewicht;
@@ -36,4 +36,23 @@ public class  Kofferinhalt
         return anzeige;
     }
 
+            public boolean istExplosiv() 
+    {
+        return false;
+    }
+    
+    public boolean istLeichtEntzuendlich()
+    {
+        return false;
+    }
+    
+    public boolean istGiftig()
+    {
+        return false;
+    }
+    
+    public boolean istStarkMagnetisch()
+    {
+        return false;
+    }
 }
