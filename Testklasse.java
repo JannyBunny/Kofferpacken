@@ -22,15 +22,6 @@ public class Testklasse
     private Ladegeraet ladegera1;
     private Ladegeraet ladegera2;
 
-    
-    
-    
-    
-    
-    
-    
-    
-
     /**
      * Konstruktor fuer die Test-Klasse Testklasse
      */

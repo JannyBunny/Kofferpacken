@@ -6,7 +6,8 @@ import java.util.ArrayList;
  * @author Jan-René Grünhagen 
  * @version 13.05.2016
  */
-public class Koffer
+public class Koffer 
+ implements GefaehrlicheGegenstande
 {
     private float gesamtgewicht;
     private float eigengewicht;
@@ -32,12 +33,32 @@ public class Koffer
         }
     }
     
-    public void gibGesamtgewicht()
+    public float gibGesamtgewicht()
     {
         for (Kofferinhalt item: inhalt) {
             gesamtgewicht+=item.gibGewicht();
         }
         gesamtgewicht+=eigengewicht;
-        System.out.println(gesamtgewicht);
+        return gesamtgewicht;
+    }
+    
+        public boolean istExplosiv() 
+    {
+        return false;
+    }
+    
+    public boolean istLeichtEntzuendlich()
+    {
+        return false;
+    }
+    
+    public boolean istGiftig()
+    {
+        return false;
+    }
+    
+    public boolean istStarkMagnetisch()
+    {
+        return false;
     }
 }

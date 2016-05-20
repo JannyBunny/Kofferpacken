@@ -4,7 +4,8 @@
  * @author Jan-René Grünhagen 
  * @version 13.05.2016
  */
-public class Kofferinhalt
+public class  Kofferinhalt
+
 {
     private float gewicht;
     /**
@@ -34,4 +35,5 @@ public class Kofferinhalt
         String anzeige = "\n Das Stück wiegt: "+gewicht+" Gramm.";
         return anzeige;
     }
+
 }
